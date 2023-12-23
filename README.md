@@ -7,5 +7,6 @@ ChatScreen is a simple UI for flutter that but in adittion has a simple https re
 - How to control a TextFormField when user type o left chating.
 - Simple control with provider.
 
-<img src="https://github.com/kevinlopezs/3dclic/blob/main/Screenshot_1703343545.png" width="400">
+<img src="https://github.com/kevinlopezs/3dclic/blob/main/Screenshot_1703343545.png" width="200"><img src="https://github.com/kevinlopezs/Chat-UI-Flutter/blob/main/Screenshot_1703346725.png" width="200">
+
 
